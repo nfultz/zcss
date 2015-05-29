@@ -1,0 +1,13 @@
+Package: zcss
+Type: Package
+Title: Zest style sheets
+Version: 0.1
+Date: 2015-05-26
+Author: Neal Fultz
+Maintainer: Neal Fultz <njf@zestfinance.com>
+Description: Read in defaults in a CSS-like format, and apply them
+  to R plots and code.
+License: GPL-3
+Copyright: ZestFinance 2015
+LazyData: TRUE
+Imports: magrittr
